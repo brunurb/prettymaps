@@ -28,8 +28,10 @@ This work is [licensed](LICENSE) under a GNU Affero General Public License v3.0 
 
 Install with
 
-```
-$ pip install prettymaps
+$ pip install git+https://github.com/abey79/vsketch#egg=vsketch
+$ pip install git+https://github.com/marceloprates/prettymaps.git
+
+
 ```
 
 ### Arch Linux
